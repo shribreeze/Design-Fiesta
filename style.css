@@ -1,0 +1,49 @@
+body {
+    background-color: #2E1B50;
+    font-family: 'Jura';font-size: 22px;
+    color: rgb(212, 212, 212);
+    /* filter: blur(2px); */
+}
+
+.navbar {
+    margin-top: 140px;
+    margin-left: 180px;
+    margin-right: 180px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 5px 5px;
+    border-color: #D04EFE;
+    background-image: repeating-linear-gradient(to right, #2E1B50,#8642FF 7%, #2E1B50 25%);
+}
+
+.navCard {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.shipText {
+    color: white;
+}
+
+.body1 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    inline-size: 10px;
+}
+
+.body2 {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.contentBody2 {
+}
+
+.body3 {
+    display: flex;
+    justify-content: space-between;
+}
